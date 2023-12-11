@@ -3,4 +3,4 @@
 
 目前有以下内容
 
-第一章 [基础语法](Basic python syntax/)
+[第一章 基础语法](Basic python syntax/)
