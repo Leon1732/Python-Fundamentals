@@ -6,6 +6,18 @@
 ## 第一章 [基础语法](Basic_python_syntax/)
 
 ### 1.1 [字符串](Basic_python_syntax/String)
+
+常用的转义字符
+
+![Image text](Basic_python_syntax/String/Figure_1.jpg)
+
+常用字符串格式化符号
+
+![Image text](Basic_python_syntax/String/Figure_2.jpg)
+
+常用的字符串处理函数
+
+![Image text](Basic_python_syntax/String/Figure_3.jpg)
   
 ### 1.2 [运算符](Basic_python_syntax/Calculation)
 
