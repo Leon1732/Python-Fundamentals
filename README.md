@@ -14,3 +14,5 @@
 ### 1.4 [循环语句](Basic_python_syntax/Loop_Statements)
 
 ### 1.5 [列表](Basic_python_syntax/List)
+
+### 1.6 [元组]（Basic_python_syntax/Tuple）
