@@ -30,17 +30,25 @@
   
 ## 1.2 [运算符](Basic_python_syntax/Calculation)
 
+
 表1. 算数运算符
 
 ![Image text](Basic_python_syntax/Calculation/Figure_1.jpg)
+
 
 表2. 比较运算符
 
 ![Image text](Basic_python_syntax/Calculation/Figure_2.jpg)
 
+
 表3. 逻辑运算符
 
 ![Image text](Basic_python_syntax/Calculation/Figure_3.jpg)
+
+
+表4. 常用的数学函数
+
+![Image text](Basic_python_syntax/Calculation/Figure_4.jpg)
 
 ## 1.3 [条件语句](Basic_python_syntax/Conditional_Statements)
 
