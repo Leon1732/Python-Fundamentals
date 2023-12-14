@@ -38,7 +38,7 @@
 
 ![Image text](Basic_python_syntax/Calculation/Figure_2.jpg)
 
-表1. 逻辑运算符
+表3. 逻辑运算符
 
 ![Image text](Basic_python_syntax/Calculation/Figure_3.jpg)
 
