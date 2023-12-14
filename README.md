@@ -16,37 +16,33 @@
 
 ## 1.1 [字符串](Basic_python_syntax/String)
 
-表1. 常用的转义字符
+### 表1. 常用的转义字符
 
 ![Image text](Basic_python_syntax/String/Figure_1.jpg)
 
-表2. 常用字符串格式化符号
+### 表2. 常用字符串格式化符号
 
 ![Image text](Basic_python_syntax/String/Figure_2.jpg)
 
-表3. 常用的字符串处理函数
+### 表3. 常用的字符串处理函数
 
 ![Image text](Basic_python_syntax/String/Figure_3.jpg)
   
 ## 1.2 [运算符](Basic_python_syntax/Calculation)
 
-
-表1. 算数运算符
+### 表1. 算数运算符
 
 ![Image text](Basic_python_syntax/Calculation/Figure_1.jpg)
 
-
-表2. 比较运算符
+### 表2. 比较运算符
 
 ![Image text](Basic_python_syntax/Calculation/Figure_2.jpg)
 
-
-表3. 逻辑运算符
+### 表3. 逻辑运算符
 
 ![Image text](Basic_python_syntax/Calculation/Figure_3.jpg)
 
-
-表4. 常用的数学函数
+### 表4. 常用的数学函数
 
 ![Image text](Basic_python_syntax/Calculation/Figure_4.jpg)
 
