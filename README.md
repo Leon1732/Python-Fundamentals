@@ -87,7 +87,7 @@
 
 ## 2.3 [模块架构](Object-Oriented_Programming/Module)
 
-## 2.4 [包]
+## 2.4 [包](Object-Oriented_Programming/Package)
 
 ## 2.5 [导入类]
 
