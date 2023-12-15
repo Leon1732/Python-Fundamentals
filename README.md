@@ -85,7 +85,7 @@
 
 ## 2.2 [继承](Object-Oriented_Programming/Inheritance)
 
-## 2.3 [模块架构]
+## 2.3 [模块架构](Object-Oriented_Programming/Module)
 
 ## 2.4 [包]
 
