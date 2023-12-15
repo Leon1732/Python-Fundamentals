@@ -12,4 +12,4 @@
 
 该实例中文件bianyi.py将同目录下文件mokuai.py编译成文件mokuai.pyc。运行mokuai.pyc和单独运行mokuai.py效果是一样的。mokuai.pyc是以Python字节码的形式存在，起到防止源码泄露的作用。.pyc文件可以用cmd运行，可输入以下指令运行：
 
-python xxx.pyc
+`python xxx.pyc`
