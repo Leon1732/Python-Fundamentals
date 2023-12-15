@@ -13,6 +13,7 @@
   * [1.8 集合](#18-集合)
 * [第二章 面向对象](#第二章-面向对象)
   * [2.1 类](#21-类)
+  * [2.2 继承](#22-继承)
 
 # 第一章 [基础语法](Basic_python_syntax/)
 
@@ -73,3 +74,5 @@
 # 第二章 [面向对象](Object-Oriented_Programming/)
 
 ## 2.1 [类](Object-Oriented_Programming/Class)
+
+## 2.2 [继承](Object-Oriented_Programming/Inheritance)
