@@ -89,7 +89,7 @@
 
 ## 2.4 [包](Object-Oriented_Programming/Package)
 
-## 2.5 [导入类]
+## 2.5 [导入类](Object-Oriented_Programming/Import_Class)
 
 ## 2.6 [迭代器]
 
