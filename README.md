@@ -18,7 +18,7 @@
   * [2.4 包](#24-包)
   * [2.5 导入类](#25-导入类)
   * [2.6 迭代器](#26-迭代器)
-  * [2.7 命名空间](#29-命名空间)
+  * [2.7 命名空间](#27-命名空间)
 
 # 第一章 [基础语法](Basic_python_syntax/)
 
@@ -88,7 +88,7 @@
 
 ## 2.5 [导入类](Object-Oriented_Programming/Import_Class)
 
-## 2.6 [迭代器]
+## 2.6 [迭代器](Object-Oriented_Programming/Iterator)
 
-## 2.7 [命名空间]
+## 2.7 [命名空间](Object-Oriented_Programming/Namespace)
 
